@@ -1,0 +1,1 @@
+Model - uproszczona reprezentacja rzeczywistości

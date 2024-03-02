@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "1508977cf0746f56",
+    "type": "split",
+    "children": [
+      {
+        "id": "50d5e1da4a6f9fb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43d7dafd482cf129",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "900c2c26b805114e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d32b338ac07b4ff9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b14c08431046e7dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e6c13ed8e0624bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dfef09e254a22cce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 306.5
+  },
+  "right": {
+    "id": "154d3e4191663fd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b62d4f7680f4195",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29dc4f5c4fc15ac4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "467fb3e383f2b1b0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0173da41563026d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7670a6340f902cb9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b14c08431046e7dd",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "2024-03-02.md",
+    "AI/Matematyka.md",
+    "AI/Design thinking.md",
+    "AI",
+    "INS/Złożoność obliczeniowa.md",
+    "INS/Filtr Kalmana.md",
+    "INS/Identyfikacja obiektów statycznych w warunkach probabilistycznych.md",
+    "INS/Systemy autonomiczne.md",
+    "INS/Sieci złożone.md",
+    "INS/Reprezentacja wiedzy i wnioskowanie w warunkach niepewności.md",
+    "INS/Programowanie liniowe.md",
+    "INS/Metoda Monte Carlo.md",
+    "INS/Metody modelowania systemów dyskretnych.md",
+    "INS/Estymacja parametrów systemów dynamicznych.md",
+    "INS/Algorytm.md",
+    "INS/SSM.md",
+    "INS/systemów dynamicznych.md",
+    "INS/Niestacjonarność w strumieniach danych.md",
+    "INS/Systemy wieloagentowe.md",
+    "INS/IoT.md",
+    "INS/Hierarchiczna struktura.md",
+    "INS/Obliczenia miękkie, systemy niepewne.md",
+    "INS/Sztuczna Inteligencja.md",
+    "INS/Próbkowanie oszczędne.md",
+    "INS/Metody chmur i mgieł obliczeniowych.md",
+    "imgs/Pasted image 20240118154426.png",
+    "INS/Metody maszynowego uczenia się.md",
+    "imgs/Pasted image 20240117160950.png",
+    "imgs/Pasted image 20240114222424.png",
+    "imgs/Pasted image 20240117123900.png",
+    "imgs/Pasted image 20240116174255.png",
+    "imgs/Pasted image 20240116174233.png",
+    "imgs/Pasted image 20240115221150.png",
+    "imgs/Pasted image 20240114212228.png",
+    "INS/metody oceny jakości modelu",
+    "imgs/Pasted image 20240113114435.png",
+    "imgs/Pasted image 20240113114411.png",
+    "imgs",
+    "INS"
+  ]
+}

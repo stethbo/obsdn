@@ -1,0 +1,1 @@
+**Metoda maksymalnej wiarygodności** (ang. *maximum likelihood estimation*) - jest metodą estymacji parametrów, która polega na znalezieniu takich parametrów, które maksymalizują prawdopodobieństwo wystąpienia danych. Mamy model i dane, ale nie wiemy jakie są najlepsze wartości parametrów modelu , nie wymaga danych z etykietami.
