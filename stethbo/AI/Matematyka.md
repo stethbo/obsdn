@@ -4,3 +4,9 @@ $$\int_{a}^{b}f(x)dx$$
 $a, b$ - granice całkowania
 $dx$ - całkowanie względem $x$
 
+
+## Kombinatoryka
+### Liczba wyboru $k$ elementów z $n$ elementowego zbioru
+$$C(n, k)=\frac{n!}{k!(n-k)!}$$
+
+
